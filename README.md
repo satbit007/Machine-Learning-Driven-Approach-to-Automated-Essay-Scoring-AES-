@@ -13,7 +13,9 @@ Objectives:
 
 ● Develop a model capable of scoring essays based on a range of criteria including
 grammar, relevance, and coherence.
+
 ● Benchmark the model against human scoring to ensure reliability.
+
 ● Investigate the impact of different feature extraction methods on the accuracy of
 the scoring model.
 
@@ -21,10 +23,13 @@ Methodology:
 
 ● Dataset: Use the ASAP-AES dataset containing essays with human expert
 scores.
+
 ● Feature Extraction: Apply NLP techniques, such as bag-of-words, TF-IDF, and
 syntactic parsing, to convert text into a feature set.
+
 ● Model Selection: Experiment with various ML algorithms including Ridge
 Regression, SVM, and Ensemble Methods.
+
 ● Evaluation: Utilize metrics such as Mean Squared Error (MSE) and R-squared to
 validate the model's performance.
 
