@@ -13,6 +13,7 @@ Objectives:
 
 ● Develop a model capable of scoring essays based on a range of criteria including
 grammar, relevance, and coherence.
+
 ● Benchmark the model against human scoring to ensure reliability.
 
 ● Investigate the impact of different feature extraction methods on the accuracy of
